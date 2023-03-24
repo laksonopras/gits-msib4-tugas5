@@ -1,0 +1,10 @@
+.min-height-screen{
+    height: 1vh;
+}
+.bg-main{
+    background-color: #7F3667;
+}
+.rectangle{
+    width: 300px;
+    height: 300px;
+}
